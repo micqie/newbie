@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Sports World</h1>
+        <h1>TABANG MO TANAN</h1>
         <nav>
             <ul>
                 <li><a href="index.php?page=volleyball">Volleyball</a></li>
